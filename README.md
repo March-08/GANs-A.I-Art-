@@ -10,4 +10,11 @@ Technologies based on these networks have made possible the creation of "pieces 
  
 ## In this repository :
 
-- []()
+- [Mnist GAN](https://github.com/March-08/GANs-A.I-Art-/blob/main/mnist_GAN.ipynb)
+   
+  This is my first attempt at creating a GAN. The network is able to generate images similar to those of the classic [MNIST dataset](http://yann.lecun.com/exdb/mnist/), starting from simple noise taken from a random   distribution.
+I learned to develop a generator and a discriminator and then combine them in the final GAN. Certainly the training phase is more complicated than the development of a classic network because we must consider that we use two networks that fight against each other and it is essential to freeze the weights of the discriminator when appropriate.
+
+- [Cifar 10 GAN](https://github.com/March-08/GANs-A.I-Art-/blob/main/cifar10_GAN.ipynb)
+   
+  Project very similar to the previous one, the difference is that the [Cifar 10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html) has been used, so I had to treat RGB images and adapt the code to handle 3 channels.
