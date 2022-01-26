@@ -18,3 +18,7 @@ I learned to develop a generator and a discriminator and then combine them in th
 - [Cifar 10 GAN](https://github.com/March-08/GANs-A.I-Art-/blob/main/cifar10_GAN.ipynb)
    
   Project very similar to the previous one, the difference is that the [Cifar 10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html) has been used, so I had to treat RGB images and adapt the code to handle 3 channels.
+ 
+- [Gan on custon dataser](https://github.com/March-08/GANs-A.I-Art-/blob/main/GAN_on_custom_dataset.ipynb)
+   
+  In this project I used a custom dataset. Using the **download all imges** plugin of google chrome, I was able to create a custom dataset that I had to handle resizing all the images in a shape that could match the Neural Network
