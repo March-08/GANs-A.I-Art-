@@ -25,9 +25,9 @@ I learned to develop a generator and a discriminator and then combine them in th
 
 - [GAN for paintings](https://github.com/March-08/GANs-A.I-Art-/blob/main/GAN_for_paintings.ipynb)
    
- I fed the network with images of paintings, unlike the previous project, I went to save the weights of the generator and discriminator in h5 format.  
+  I fed the network with images of paintings, unlike the previous project, I went to save the weights of the generator and discriminator in h5 format.  
  
  - [Shakespear Generator](https://github.com/March-08/GANs-A.I-Art-/blob/main/Shakespeare_Generator.ipynb)
   
-In this project I used a [LSTM](https://en.wikipedia.org/wiki/Long_short-term_memory) network, so that I can manage temporal sequences (you can think of a sentence as a sequence of words in time). I fed the network with data from Shakespear plays to generate new tests. I made use of the tokenizer provided by keras and used an n gram approach.  
- 
+   In this project I used a [LSTM](https://en.wikipedia.org/wiki/Long_short-term_memory) network, so that I can manage temporal sequences (you can think of a sentence as a sequence of words in time). I fed the network with data from Shakespear plays to generate new tests. I made use of the tokenizer provided by keras and used an n gram approach.  
+
