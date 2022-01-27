@@ -23,7 +23,7 @@ I learned to develop a generator and a discriminator and then combine them in th
    
   In this project I used a custom dataset. Using the **download all imsges** plugin of google chrome, I was able to create a custom dataset that I had to handle resizing all the images in a shape that could match the Neural Network
 
-- [GAN for paintings](https://github.com/March-08/GANs-A.I-Art-/blob/main/GAN_on_custom_dataset.ipynb)
+- [GAN for paintings](https://github.com/March-08/GANs-A.I-Art-/blob/main/GAN_for_paintings.ipynb)
    
  I fed the network with images of paintings, unlike the previous project, I went to save the weights of the generator and discriminator in h5 format.  
  
