@@ -35,4 +35,6 @@ I learned to develop a generator and a discriminator and then combine them in th
   
    In this projects I used a [LSTM](https://en.wikipedia.org/wiki/Long_short-term_memory) network with bidirectionals layers in order to improve the learning capacity. The network was trained with star wars movie scripts of **Episode IV, V** an **VI**
 
-
+ - [Blog Generator with GPT2](https://github.com/March-08/GANs-A.I-Art-/blob/main/Blog_Generator.ipynb)
+  
+   The powerful technology of **GPT2** could have extraordinary and varied applications, not to mention its successor GPT3. Here I use this technology to create a simple blog generator, given a topic the network will create a small text on that topic.
