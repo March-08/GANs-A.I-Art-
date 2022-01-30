@@ -38,3 +38,8 @@ I learned to develop a generator and a discriminator and then combine them in th
  - [Blog Generator with GPT2](https://github.com/March-08/GANs-A.I-Art-/blob/main/Blog_Generator.ipynb)
   
    The powerful technology of **GPT2** could have extraordinary and varied applications, not to mention its successor GPT3. Here I use this technology to create a simple blog generator, given a topic the network will create a small text on that topic.
+   
+  - [Music Generator](https://github.com/March-08/GANs-A.I-Art-/blob/main/Music_Generator.ipynb)
+  
+     Using a dataset of songs in [MIDI](https://it.wikipedia.org/wiki/Musical_Instrument_Digital_Interface) format is possible to implement a network, in this case LSTM, to generate songs. Basically a song is seen as a temporal serie, with notes that follow each other in time, this way we can process the data and feed them to the network.
+
